@@ -1,4 +1,4 @@
-# Hi there, I'm Nhat Nguyen Vo Quang 👋
+# Hi there, I'm Nguyenn(Zil) 👋
 *Space Engineering Student | Satellite Systems & Remote Sensing Enthusiast*
 
 ---
