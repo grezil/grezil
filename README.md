@@ -8,7 +8,7 @@
 - 🛰️ Passionate about **Orbital Mechanics**, **Satellite Data Processing**, and **Remote Sensing (GIS)**.
 - 🛠️ Currently focusing on building simulation models for satellite orbits and Earth observation analysis.
 - 🤝 Looking to collaborate on open-source space technology projects and aerospace data processing tools.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) | [Email](mailto:your.email@example.com)
+- 📬 How to reach me: grezil92@gmail.com
 
 ---
 
